@@ -1,8 +1,8 @@
 # tipcalculatorapp
 
-A new Flutter application.
+Новое приложение Flutter.
 
-## Images
+## Картинки
 
 ![First](images/Screenshot_1590675782.png)
 
